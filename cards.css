@@ -1,0 +1,16 @@
+body {
+  background-color: #080;
+}
+
+#next {
+  top: 30px;
+  left: 250px;
+  position: absolute;
+}
+
+.card {
+  height: 250px;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
